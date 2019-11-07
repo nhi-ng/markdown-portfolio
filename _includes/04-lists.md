@@ -3,3 +3,4 @@
 - Calligraphy
 - Bullet-journaling 
 - Taking care of Succulents 
+- Baking
