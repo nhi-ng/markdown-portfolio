@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Nhi Nguyen
+## Welcome to my portfolio 
